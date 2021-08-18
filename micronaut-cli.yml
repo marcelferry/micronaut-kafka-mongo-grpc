@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.marcelferry.micronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, java, java-application, jib, junit, kafka, kubernetes, logback, lombok, management, maven, mongo-reactive, netty-server, openapi, readme, shade, testcontainers, yaml]
